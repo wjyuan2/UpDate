@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">UpDate</string>
+    <string name="permi_write_read">app需要获取读取权限，否则无法正常工作</string>
+    <string name="rationale_ask_again">这个程序如果没有这些权限可能无法正常工作，打开应用程序设置修改应用程序的权限</string>
+    <string name="title_settings_dialog">申请权限</string>
+</resources>
